@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "Twitch Chat Filter",
+  "version": "1.0",
+  "description": "Hides messages in Twitch chat with fewer than 4 unique words.",
+  "icons": {
+    "48": "icon.png"
+  },
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.twitch.tv/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}
+
