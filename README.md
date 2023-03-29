@@ -6,6 +6,6 @@ This is a firefox extension that monitors twitch chat and hides messages that me
 -containing repeated substrings of length 4 or more characters  
 -repeated sequences of 3 or more words.  
   
-It manages to hide most of the useless spam while keeping real interactions.
+It manages to hide most of the useless spam while keeping real interactions shown.
 
 It does this by checking each new message element.
