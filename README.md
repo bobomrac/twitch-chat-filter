@@ -9,3 +9,5 @@ This is a firefox extension that monitors twitch chat and hides messages that me
 It manages to hide most of the useless spam while keeping real interactions shown.
 
 It does this by checking each new message element.
+  
+![alt text](https://raw.githubusercontent.com/bobomrac/twitch-chat-filter/main/EXAMPLE%202023-03-30%2003-08-36.png)
