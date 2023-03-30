@@ -10,4 +10,6 @@ It manages to hide most of the useless spam while keeping real interactions show
 
 It does this by checking each new message element.
   
+This example image show the chat with and without the extension on the same stream at the same time.  
+
 ![alt text](https://raw.githubusercontent.com/bobomrac/twitch-chat-filter/main/EXAMPLE%202023-03-30%2003-08-36.png)
